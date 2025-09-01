@@ -3,7 +3,7 @@ matriz = [
     [9, 8, 7],
     [6, 5, 4],
     [3, 2, 1]
-]
+
 
 # Función para ordenar una fila específica (usando Bubble Sort)
 def ordenar_fila(matriz, fila):
